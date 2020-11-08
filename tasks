@@ -1,0 +1,10 @@
+How backtrack will work
+pick an empty square -> try all numbers -> find one that works 
+if can't find a valid number BACKTRACK 
+go to the next empty square and repeat
+
+
+functions needed -> print the sudoku board
+                 -> find empty case
+                 ->check if n valid
+                 ->solve
